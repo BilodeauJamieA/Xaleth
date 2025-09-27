@@ -1,17 +1,9 @@
-Monk 4 (Way of the Open Palm) 
-Cleric 2 (Twilight Domain) 
+# Bonus Starters
 
-Current age is 39, coming of age was 17
+Uncommon Magic Item - The Driftglobe
+    *bonus - Once per long rest - reach out to Bway Tuggyss for guidance.  You ask a question and 'feel' a response.
 
-Hallowhide
-
-The Driftglobe was given to me by the silver spirit I met in the Fae Wilds. It is a fragment of its light, a reminder that even as the brand ties me to shadow, balance can be found. The globe is not divine law but a companion, circling me as proof that I walk with both shadow and radiance.
-
-I do not follow any gods as a Taoist, I believe in higher powers but do not worship anything. I do follow the guidance of the spirit from the Fae Wilds.
-
-# Infernal
-
-You are not fluent, but gain advantage in scenarios that DM approves of.
+3d4 x 25 gold (additional)
 
 # Hallowhide Herd
 
@@ -51,4 +43,4 @@ What you remember from your meeting:
 
 "In moments of need, in hours of doubt, speak my name within your heart, and I shall hear. You are never beyond my reach, so long as you remember my name."
 
-*She then fades away as quickly as she arrived but you could sense the power in her words deep within you even now*
+*A small glass orb appears on the ground below where she was floating as she fades away. You can sense a similar aura as her radiating from the orb. (This is the Driftglob)*
