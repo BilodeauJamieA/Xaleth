@@ -9,7 +9,8 @@ url: bilodeaujamiea.github.io # the base hostname and protocol for your site, e.
 github_username:  BilodeauJamieA
 
 # Build settings
-remote_theme: just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 exclude:
   - DM_Stuff
