@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Xaleth
 description: The beginnings to any adventure...
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Organizations\Divinity\Divinity.md
+  - Places\Endless_Fog.md
