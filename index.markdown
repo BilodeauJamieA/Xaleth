@@ -1,21 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Xaleth
 layout: home
+nav_order: 1
+description: "Welcome to the beginning..."
+permalink: /
 ---
 
-# Table of Contents
-1. [Divinity](.\Organizations\Divinity\Divinity.md)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+# The World of Xaleth
 
+Xaleth is a realm where ancient powers and fragile civilizations weave a delicate balance. Two great continents dominate its surface—each shaped by cataclysm, myth, and ambition.
 
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+At its heart, Xaleth pulses with ley-lines—rivers of raw arcane energy that twist across land and sea, fueling wonders and horrors alike. Entire cities rise where these lines converge, while wild frontiers remain scarred and unstable, haunted by creatures twisted by unchecked magic.
 
-- 
-- Organizations\Magocracy\Council_of_Seven.md
+The pantheon of Xaleth exerts a constant presence: gods of liberation, survival, justice, and elemental chaos stir mortal hearts and wage their unseen wars. Temples and cults flourish, each seeking dominion, guidance, or survival beneath the eternal gaze of She-Who-Is, the almighty deity.
+
+Kingdoms, empires, and wandering tribes vie for dominance, yet all remain wary of the deep shadows—the ancient ruins of precursor civilizations, the monstrous titans said to slumber beneath mountains and seas, and the constructs of forgotten ages that sometimes stir to life.
+
+Xaleth is not a land of safety but of opportunity. The brave, the cunning, and the desperate carve their legacies in its wild places and great cities alike. For every treasure unearthed, there is a curse waiting to be unleashed; for every empire rising, there is an older one ready to reclaim its throne.
+
+**Here, adventure begins not with certainty, but with choice and Xaleth waits to see what mark your story will leave upon its world.**

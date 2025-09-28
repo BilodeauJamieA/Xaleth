@@ -1,3 +1,8 @@
+---
+title: Religions & Gods
+parent: Divinity
+---
+
 # Religion & Gods
 
 The heart of faith in the kingdom of Divinity centers on the worship of She-Who-Is, the almighty source of the cosmos. Around her stands the core pantheon—Ares, Artemis, Bahamut, and Tiamat—whose influence shapes much of the kingdom’s spiritual life. While countless other gods and divine beings are honored through smaller sects and private devotion, these four stand as the most prominent, drawing vast followings even among those who also pledge themselves to a personal patron deity.

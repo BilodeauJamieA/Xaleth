@@ -1,3 +1,8 @@
+---
+title: Enforcers
+parent: Magocracy
+---
+
 # General Information
 
 A legion of Constructs that is a manifestation of the Magocracy’s will, a constant reminder that the city’s order is not maintained by steel or flesh, but by spell and law intertwined.

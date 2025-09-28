@@ -1,3 +1,7 @@
+---
+title: Verdant Veil
+---
+
 # Verdant Veil
 
 A powerful Fae syndicate that originates and hosts it's base of operation within a corner of the Fae plane.

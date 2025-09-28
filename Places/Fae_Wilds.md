@@ -1,1 +1,8 @@
+---
+title: Fae Wilds
+parent: World Map
+---
+
+# Fae Wilds
+
 Fae Wilds is a vast, untamed woodland where towering ancient trees blot out much of the sky and tangled roots form natural fortresses. The forest is whispered about in nearby villages as both wondrous and perilous, for within its depths dwell countless creatures of legend. Elves make their homes high in the canopy, hidden in living citadels woven from branches and moonlight. Goblins skulk in the shadows below, carving out warrens in the roots and caves, ever scheming and raiding. Packs of wolves prowl the thickets, spirits flit between the trees, and rumors speak of far more dangerous beings that few survive to describe. Though dangerous, Fae Wilds is also a place of deep magic, where ancient power lingers in every stone, stream, and leaf. To enter is to step into a living myth—one as likely to grant fortune as it is to deliver doom.

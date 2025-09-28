@@ -1,7 +1,8 @@
 ---
-title: My page
-sidebar: toc
+title: Divinity
 ---
+
+# Divinity
 
 Divinity is a theocratic nation where faith is the cornerstone of governance, and every law, custom, and decision is guided by devotion to the divine. At its heart stands the Supreme Archbishop, who rules as both spiritual and temporal leader, advised by a council of high holy officials. Unlike other nations, Divinity’s society does not scorn those without spiritual power; all are seen as children of the divine, though status is shaped by one’s service to the faith.
 

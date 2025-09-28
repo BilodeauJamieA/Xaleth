@@ -1,6 +1,11 @@
+---
+title: Parox Orthian
+parent: Magocracy
+---
+
 # Parox Orthian – The Construct Sovereign
 
-**Item Type**: Legendary Arcane Artifact
+**Item Type**: Legendary Artifact
 
 ## Appearance
 
