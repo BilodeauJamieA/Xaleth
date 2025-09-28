@@ -1,5 +1,6 @@
 ---
 title: World Map
+nav_order: 3
 ---
 
 # Xaleth
