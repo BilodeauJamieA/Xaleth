@@ -11,7 +11,7 @@ Colin - Xander - Harengon - Eldritch Knight Fighter
 
 Logan - Beau - Raggedy Geppetin - Warmage 
 
-Tyler - Giri - Loxodon - Monk/Cleric
+### Tyler - [Giri - Loxodon - Monk/Cleric](https://www.myth-weavers.com/sheets/?id=3033436)
 
 Levi - TBD
 
