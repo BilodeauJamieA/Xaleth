@@ -1,2 +1,7 @@
 node_modules
 .other/
+website/_site
+website/.sass-cache
+website/.jekyll-cache
+website/.jekyll-metadata
+website/vendor
