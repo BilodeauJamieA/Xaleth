@@ -10,3 +10,7 @@ https://watabou.github.io/cave-generator/
 # Monster Manual
 
 https://5e.tools/bestiary.html
+
+# Loot
+
+https://donjon.bin.sh/5e/random/#type=treasure

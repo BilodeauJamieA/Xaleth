@@ -2,7 +2,7 @@
 
 ## Quest Giver
 
-Town Official (Elder Harwen, Clerk of Duskmire): A weary, pragmatic man tasked with organizing the town’s defense and appeals for aid. He briefs the adventurers on the situation and provides access to local records, villagers, and any resources the town can spare.
+Elder Harwen (Town Official ): A weary, pragmatic man tasked with organizing the town’s defense and appeals for aid. He briefs the adventurers on the situation and provides access to local records, villagers, and any resources the town can spare.
 
 Town Official’s Account:
 “At first, it didn’t raise much concern. A few adventurers went missing after poking about in the catacombs. Happens now and again—folk assumed they moved on, or lost their way underground. We only suspected otherwise when some of their packs and supplies turned up abandoned down there. Strange, but not unheard of.
@@ -13,17 +13,16 @@ What truly set us on edge was the most recent case. Another home found in the sa
 
 We’re not a strong village. Our Town Watch is small—mostly volunteers with pitchforks, not soldiers. So, we sent a formal request for aid to the Eternal Accord. We need outside hands. We need your hands. Find out what’s happening in Duskmire, before more of us vanish without a trace.”
 
-## Possible Tasks
 
-### Investigating the Catacombs Near Duskmire
+## Investigating the Catacombs Near Duskmire
 
 Clues: faint footprints, discarded personal items, or crude barricades showing recent activity heading in and out.
 
-### Investigating the Homes of Missing Residents
+## Investigating the Homes of Missing Residents
 
 Clues: Some of the homes were locked when they were investigated. All effected homes are connected to catacombs. Barely tracable changes to 'sealed' parts of catacombs in homes.
 
-### Track the Bandits’ Trail
+## Track the Bandits’ Trail
 
 The catacombs stretch ahead like a twisting, stone labyrinth, the air cool and damp, carrying the faint scent of mildew and earth. The tunnels themselves are uneven—walls slick with moisture, floors littered with broken stones, and sections collapsed long ago, forcing careful climbing or narrow squeezes.
 
@@ -38,17 +37,21 @@ The catacombs stretch ahead like a twisting, stone labyrinth, the air cool and d
 Every turn seems to echo with the faint shuffle of movement, and shadows twist unnaturally in the corners. Even as the deeper chambers grow quieter and colder, the signs are unmistakable: someone—or something—has been using these blocked-off passages, and the labyrinth is far from empty.
 
 
-# Underground Connector
+## Underground Connector
 
-# Underground Bandit Camp
+**scattered around** - 40 sp, 12 ep, 4 gp, flask of water, singed page from a spellbook, an empty vial with cork (1 gp)
 
-Evidence in the lair—maps, notes, or markings—can provide leads to the bandits’ forest base, tying this encounter into the larger quest.
+## Underground Bandit Camp
 
+**Bandit 1** - small pouch (400 cp)
+**Bandit 2** - small pouch (350 cp), a signal whistle (5 cp)
+**Bandit 3** - small pouch (300 cp)
+**Leader** - small pouch (150 cp, 60 sp, 7gp), a letter (handwritten_letter), key to cage
+Lock (10 gp, if taken properly from cage)
 
+## Caged Couple
 
-### Rewards
+Tibbin Bramblefoot (M) & Lyria Bramblefoot (F)
 
-Material: Coin pooled by Duskmire’s villagers, relics uncovered in the catacombs.
-
-Reputation: Gratitude from Duskmire and recognition from the Eternal Accord.
-
+**Captivity**:
+The couple had been caged for roughly two weeks within the bandit camp. Though not long enough to cause severe physical deterioration, the confinement left them pale, exhausted, and tense, their spirits clearly shaken.

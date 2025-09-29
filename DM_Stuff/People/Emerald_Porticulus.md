@@ -1,16 +1,24 @@
+---
+title: Emerald Porticulus
+parent: Cloudrend
+---
+
 # Emerald Porticulus
 
 **Title**: Emerald of the Magocracy
+
 **Race**: Harengon
+
 **Age**: Late 60s (though his magical vitality keeps him spry)
+
 **Specialty**: Transplanar Manipulation — the shifting of objects, and sometimes beings, between planes of existence.
 
-# Relationships
+## Relationships
 
 **Wife** - Zyla
 **Son** - Xander
 
-# Description
+## Description
 
 Tall, lean, and silver-furred, with jade-glowing eyes and emerald-trimmed robes, he commands mastery over transplanar manipulation, shifting objects and beings across dimensions. 
 

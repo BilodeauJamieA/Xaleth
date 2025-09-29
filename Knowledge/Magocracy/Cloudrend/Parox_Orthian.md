@@ -1,6 +1,6 @@
 ---
 title: Parox Orthian
-parent: Magocracy
+parent: Cloudrend
 ---
 
 # Parox Orthian – The Construct Sovereign

@@ -12,17 +12,3 @@ The village of Duskmire rests above a vast network of ancient catacombs. Long ag
 What was once eerie has become practical—wine racks line old crypts, grain is stored in sealed chambers, and livestock are herded underground during storms. Children grow up playing in the first few levels, though they’re warned never to wander too far.
 
 Most of the deeper passages were bricked up generations ago, their true extent forgotten. With no strange happenings since, the villagers carry little fear of what lies beyond. For them, the catacombs are less a place of mystery than a foundation of safety and survival.
-
-# Persons/Places of Interest
-
-**The Ground**
-
-*Inn The Ground*
-
-The only inn in Raven’s Hollow, named for its unusual construction. Its common room sits at street level, but the guest chambers are renovated sections of an old underground catacomb system beneath the town. The cool, stone-hewn rooms offer quiet and privacy, making the inn popular with travelers, merchants, and adventurers alike.
-
-**Marrek Drosven**
-
-Dwarf Innkeeper - 92 - Innkeeper of The Ground (ex-Stonemason)
-
-Appearance: Stocky build, weathered features, braided beard streaked with gray, typically dressed in practical work clothes.

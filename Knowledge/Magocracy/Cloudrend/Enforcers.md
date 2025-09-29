@@ -1,6 +1,6 @@
 ---
 title: Enforcers
-parent: Magocracy
+parent: Cloudrend
 ---
 
 # General Information

@@ -1,3 +1,8 @@
+---
+title: Zyla
+parent: Cloudrend
+---
+
 # Zyla
 
 **Race**: Harengon
