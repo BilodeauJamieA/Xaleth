@@ -1,5 +1,4 @@
-Getting Players Together
-
+# Player Hooks
     - Giri gets hired by Eternal Accord to investigate
     - Xander already works for Eternal Accord and investigation is something he is told to head
     - Beau gets pulled in 

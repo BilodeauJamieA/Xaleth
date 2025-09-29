@@ -51,7 +51,14 @@ Lock (10 gp, if taken properly from cage)
 
 ## Caged Couple
 
-Tibbin Bramblefoot (M) & Lyria Bramblefoot (F)
+Tibbin Bramblefoot (M): Slight and wiry, with sandy hair that curls at the ends, freckled cheeks, and large, anxious brown eyes. Wears tattered travel clothes, now dirty from confinement.
+
+Lyria Bramblefoot (F): Petite and delicate, with chestnut hair tied loosely behind her head, wide green eyes that dart constantly, and a faint build reflecting her young age.
 
 **Captivity**:
 The couple had been caged for roughly two weeks within the bandit camp. Though not long enough to cause severe physical deterioration, the confinement left them pale, exhausted, and tense, their spirits clearly shaken.
+
+**Behavior After Rescue**:
+Even once freed, both appear almost dazed and disengaged from their surroundings. Their only focus is their child, repeatedly asking after the baby’s safety. They barely respond to questions, and little else seems to matter to them, their worry and exhaustion entirely consuming their attention.
+
+## Finishing Up
