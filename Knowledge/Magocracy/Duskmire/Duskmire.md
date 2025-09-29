@@ -1,6 +1,6 @@
 ---
 title: Duskmire
-parent: World Map
+parent: Magocracy
 ---
 
 # Duskmire

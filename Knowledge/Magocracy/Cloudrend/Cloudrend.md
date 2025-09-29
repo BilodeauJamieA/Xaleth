@@ -1,6 +1,6 @@
 ---
 title: Cloudrend
-parent: World Map
+parent: Magocracy
 ---
 
 # Cloudrend
