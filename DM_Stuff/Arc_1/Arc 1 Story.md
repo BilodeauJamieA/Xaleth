@@ -1,5 +1,11 @@
 # Arc 1 Story
 
+**TODO**
+
+Where is Claire during this
+
+Outline Verdant Veil | Thalerian info
+
 ## Player Hooks
 
 Players are given leadup summaries and investigation request explained

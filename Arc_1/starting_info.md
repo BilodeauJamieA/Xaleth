@@ -7,9 +7,9 @@ nav_order: 2
 
 ## Players
 
-### Colin - Xander - Harengon - Eldritch Knight Fighter
+### Colin - [Xander - Harengon - Eldritch Knight Fighter](https://www.myth-weavers.com/sheets/?id=3033797)
 
-### Logan - Beau - Raggedy Geppetin - Warmage 
+### Logan - [Beau - Raggedy Geppetin - Warmage ](https://www.myth-weavers.com/sheets/?id=3033272)
 
 ### Tyler - [Giri - Loxodon - Monk/Cleric](https://www.myth-weavers.com/sheets/?id=3033436)
 
