@@ -14,3 +14,10 @@ https://5e.tools/bestiary.html
 # Loot
 
 https://donjon.bin.sh/5e/random/#type=treasure
+
+# Maps / Cities
+
+https://watabou.github.io/
+
+# Valda's - Logans Book
+https://online.anyflip.com/zxhop/jhrz/mobile/index.html

@@ -9,7 +9,11 @@ nav_order: 2
 
 ### Colin - [Xander - Harengon - Eldritch Knight Fighter](https://www.myth-weavers.com/sheets/?id=3033797)
 
+![Xander](Xander.png)
+
 ### Logan - [Beau - Raggedy Geppetin - Warmage ](https://www.myth-weavers.com/sheets/?id=3033272)
+
+![Beau](Beau.png)
 
 ### Tyler - [Giri - Loxodon - Monk/Cleric](https://www.myth-weavers.com/sheets/?id=3033436)
 
