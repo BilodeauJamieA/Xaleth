@@ -2,7 +2,7 @@
 
 **Requester**: Town of Duskmire
 
-**Assigned Agents**: Xander(Team Lead), Beau, Giri
+**Assigned Agents**: Xander(Team Lead), Beau, Giri, Grondar
 
 **Objective**
 
@@ -10,7 +10,7 @@ Investigate the recent disappearances in Duskmire by determining whether the mis
 
 **Starting Location**:
 
-Assigned agents are to meet at The Hollowstone Inn on the first day after the new moon.
+Assigned agents are to meet at the Cognito Inn on the first day after the new moon.
 
 **Reward**
 
