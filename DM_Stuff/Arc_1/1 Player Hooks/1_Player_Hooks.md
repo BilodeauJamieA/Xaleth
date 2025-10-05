@@ -16,3 +16,6 @@ Xander is a seasoned operative of the Eternal Accord, maintained as a permanent 
 
 Beau has long been keeping tabs on cases involving missing persons, gathering information wherever he can. During one of his frequent visits to the Magocracy’s division of the Eternal Accord (where he routinely discovers useful leads) he overheard officials organizing an investigation in the town of Duskmire, following a recent disappearance. Using some influence granted by his creator, Tyezin, Beau was able to secure a spot on the investigative team, eager to apply his knowledge and ensure the case is handled thoroughly.
 
+## Grondar
+
+Grondar latest assignment is to investigate a disappearance in a nearby town. Hardly thrilling, and this time you’ll have to work with a team. Still, there’s something that makes it worth your while: completing this task will earn you a long-awaited rank up. One step closer to the knowledge you seek and to your ultimate goal.

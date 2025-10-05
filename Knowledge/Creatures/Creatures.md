@@ -1,5 +1,6 @@
 ---
 title: Creatures
+nav_order: 8
 ---
 
 # Creatures

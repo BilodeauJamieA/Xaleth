@@ -1,5 +1,6 @@
 ---
 title: Ashen Expanse
+nav_order: 7
 ---
 
 # Ashen Expanse

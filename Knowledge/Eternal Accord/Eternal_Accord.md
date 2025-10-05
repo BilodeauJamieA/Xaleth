@@ -1,5 +1,6 @@
 ---
 title: Eternal Accord
+nav_order: 6
 ---
 
 # Eternal Accord
