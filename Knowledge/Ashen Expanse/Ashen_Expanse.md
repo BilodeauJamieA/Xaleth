@@ -1,6 +1,5 @@
 ---
 title: Ashen Expanse
-parent: World Map
 ---
 
 # Ashen Expanse
