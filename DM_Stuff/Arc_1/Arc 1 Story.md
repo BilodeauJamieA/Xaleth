@@ -6,7 +6,11 @@ Where is Claire during this
 
 Outline Verdant Veil | Thalerian info
 
-## Player Hooks
+What is Malgrum up to
+
+How does the Beast Lord plan to interact with 
+
+## Fighters Unite
 
 Players are given leadup summaries and investigation request explained
 
@@ -14,7 +18,7 @@ Characters meet at Cognito, do introductions, and plan next steps based on reque
 
 ## The Vanishings of Duskwood
 
-Player Hooks should give them ample reason to join and travel from Cloudrend to Duskmire.
+*Fighters Unite* should give them ample reason to join and travel from Cloudrend to Duskmire.
 
 Travel to Duskmire takes a little less than 2 days travel on foot with minimal interactions
 

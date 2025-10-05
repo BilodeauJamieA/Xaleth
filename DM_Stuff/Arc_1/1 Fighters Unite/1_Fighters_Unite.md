@@ -1,4 +1,4 @@
-# Player Hooks
+# Fighters Unite
 
 Story Snippets below will lead up to each person getting their character ready and meeting the others.
 
