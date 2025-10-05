@@ -1,6 +1,6 @@
 ---
 title: Rhinari
-parent: Races
+parent: Creatures
 ---
 
 # Rhinari
