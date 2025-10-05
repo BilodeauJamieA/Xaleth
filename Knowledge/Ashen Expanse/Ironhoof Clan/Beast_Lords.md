@@ -1,9 +1,11 @@
 ---
 name: Beast Lords
-parent: Ironhoof Clan
+parent: Ashen Expanse
 ---
 
 # Beast Lords
+
+A collection of primal, animal-based spirits revered by many tribes in the Ashen Expanse. They are not distant gods but living embodiments of the qualities the various clans value in the harsh living conditions of the Ashen Expanse. Two particular Beast Lords stand above the rest but their are many beyond that that represent different aspects of the natural and spiritual world.
 
 ## Tharkun
 
