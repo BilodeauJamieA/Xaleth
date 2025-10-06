@@ -15,6 +15,7 @@ https://5e.tools/bestiary.html
 # Loot
 
 https://donjon.bin.sh/5e/random/#type=treasure
+https://donjon.bin.sh/d20/treasure/
 
 # Maps / Cities
 

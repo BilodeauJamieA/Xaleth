@@ -61,4 +61,43 @@ The couple had been caged for roughly two weeks within the bandit camp. Though n
 **Behavior After Rescue**:
 Even once freed, both appear almost dazed and disengaged from their surroundings. Their only focus is their child, repeatedly asking after the baby’s safety. They barely respond to questions, and little else seems to matter to them, their worry and exhaustion entirely consuming their attention.
 
+## Investigating Letter
+
+Who find's it, do they show others?
+
+### Ravens Hollow
+
+**Intelligence Check**: The town is a few days travel to the north east, just on the border of the Fae Wilds.  Higher rolls reveal more information.
+
+### Verdant Veil Mark
+
+**Nature, Arcana, or History Check** - *Xander gets advantage*: It is recognized to be the mark of a group called the Verdant Veil.  Higher rolls understand it's authenticity.
+
 ## Finishing Up
+
+**Elder Harwin**
+
+- Assists reuniting couple and child
+- Promises to prioritize resealing of catacombs
+- Tells them to report to Eternal Accord office
+
+**Serelis Varn**
+
+- Will report findings back to branch in Cloudrend
+- Will process Grondar's rank up (could be about a week for it to be finalized)
+- Gives party priority on investigating Ravens Hollow
+- The party is allowed to take up to one item each, or an individual may opt to paid 37 gp
+
+    **Salvage**	
+
+    - Chain Shirt - Medium
+    - Spiked Armor - Medium 
+    - Artisan's Tools
+    - Bag of Dried Mushrooms
+    - Bag of Salt
+    - Common Wig (Black)
+    - Pair of Dice
+    - Potion of Healing x 2
+    - Sewing Needle
+    - Small Cask of Oil
+    - Wool Cloak (Brown)

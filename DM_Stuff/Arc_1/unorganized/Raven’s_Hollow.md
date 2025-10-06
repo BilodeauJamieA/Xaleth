@@ -1,3 +1,8 @@
+---
+title: Raven’s Hollow
+parent: Magocracy
+---
+
 # Raven’s Hollow
 
 Raven’s Hollow is the largest foresting town of the Magocracy and just before the border of the Fae Wilds. Surrounded by vast ancient woods, it supplies much of the kingdom’s timber, with lumber camps stretching deep into the trees. Life on the edge of the Fae border has hardened the townsfolk. Rather than fearing the Fae, they’ve grown accustomed to their tricks and games, treating them as little more than nuisances.
