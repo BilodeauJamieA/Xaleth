@@ -16,3 +16,9 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Divination magic (exception to the rule)
+
+**Artifact**: Celestarium Lens – a crystalline monocle revealing fates and potential futures.
+ -->

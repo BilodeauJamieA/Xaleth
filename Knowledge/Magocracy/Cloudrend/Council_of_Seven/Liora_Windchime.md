@@ -16,3 +16,9 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Wind magic.
+
+**Artifact**: Harmonium Staff – channels the air itself to summon storms or calm tempests.
+ -->

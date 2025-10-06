@@ -9,11 +9,15 @@ The Endless Fog is actually the fabric between realms/planes but it's effected b
 Ashen Expanse miasma is the remnants of an ancient beings death.  The miasma is the leftover 'mystical' energy left from their corpse.  It tends to effect magic in unexpected ways because of it's primordeal essence
 
 
-
 # Story Plot
 
-Logan's child is kidnapped/missing
 Find out Thalirien had something to do with it
     OR Enforcers (kidnapping but don't have her)
 Thalirien are collecting for Veil
     - in opposition of The 7 for Parox Orthian
+
+Claire Rien *The Cunning Star of Cloudrend*
+    - Bard has begun telling her tales of heroism
+
+Tyezin Rien
+    - House of Thalirien - One of the lower ranks of the house but has mysterious background

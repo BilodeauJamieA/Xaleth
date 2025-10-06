@@ -16,3 +16,9 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Teleportation and Planar manipulation.
+
+**Artifact**: Ring of the Infinite Path – allows instantaneous travel across planes, though with perilous strain.
+ -->

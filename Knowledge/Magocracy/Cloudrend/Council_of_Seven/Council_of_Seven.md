@@ -10,7 +10,3 @@ The Magocracy of Xaleth is ruled by the Council of Seven, archmages who each emb
 Though bound together, the Seven are divided by rivalries and hidden agendas, their debates shaping the fate of nations. They alone command the Parox Orthian, the relic that controls the Enforcers.
 
 To the people, the Council are protectors and tyrants. The near immortal rulers whose word can raise empires or bring them to ruin.
-
-
-
-

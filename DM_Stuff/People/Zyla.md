@@ -6,12 +6,15 @@ parent: Cloudrend
 # Zyla
 
 **Race**: Harengon
+
 **Age**: Early 60s
+
 **Specialty**: Transplanar Portals — creation of doorways between planes of existence.
 
 # Relationships
 
 **Husband** - 'Emerald' Porticulus
+
 **Son** - Xander
 
 # Description

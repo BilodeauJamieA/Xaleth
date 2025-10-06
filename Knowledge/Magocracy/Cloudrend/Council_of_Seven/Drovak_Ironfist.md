@@ -16,3 +16,8 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Rune and Binding magic.
+
+**Artifact**: Hammer of Eternal Sigils – a warhammer able to apply runes and sigils to objects -->

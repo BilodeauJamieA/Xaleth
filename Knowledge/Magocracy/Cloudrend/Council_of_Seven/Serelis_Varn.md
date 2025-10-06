@@ -16,3 +16,9 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Shadow magic
+
+**Artifact**: Veil of Eternal Dusk – a cloak that bends light and darkness, allowing Veyrith to slip between shadows.
+ -->

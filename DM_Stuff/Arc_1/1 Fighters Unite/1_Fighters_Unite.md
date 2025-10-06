@@ -1,21 +1,37 @@
 # Fighters Unite
 
-Story Snippets below will lead up to each person getting their character ready and meeting the others.
+## In The Beginning
 
-**Investigation Request** - Details to bring below stories together
+Send players individual information as well as Investigation Request
 
-## Giri
+Let players pick out character pieces
 
-Girimekhala has worked enough requests to become a trusted adventurer for the Eternal Accord. His calm, focused demeanor as well as his ability to remain well-centered under duress has earned him the confidence of the Officers in the Magocrocy's division of the Eternal Accord. Recently, the Eternal Accord reached out with a new assignment: To join a specialized team leading an investigation in the northwest.
+Cover any initial questions before moving on
 
-## Xander
+## Beginning Inn Cognito 
 
-Xander is a seasoned operative of the Eternal Accord, maintained as a permanent agent specifically for high-priority missions or requests with tight deadlines. Known for his efficiency and reliability, he is often dispatched when influential patrons or urgent matters demand swift action. Recently, his contact within the Magocracy’s division of the Eternal Accord issued instructions for him to travel to Duskmire to handle a moderate-priority assignment.
+Mira greets and directs patrons as they enter
 
-## Beau
+Give players chance to introduce each other or similar and plan out strategy.
 
-Beau has long been keeping tabs on cases involving missing persons, gathering information wherever he can. During one of his frequent visits to the Magocracy’s division of the Eternal Accord (where he routinely discovers useful leads) he overheard officials organizing an investigation in the town of Duskmire, following a recent disappearance. Using some influence granted by his creator, Tyezin, Beau was able to secure a spot on the investigative team, eager to apply his knowledge and ensure the case is handled thoroughly.
+Make sure Bard makes an appearance
 
-## Grondar
+## Road To Duskmire
 
-Grondar latest assignment is to investigate a disappearance in a nearby town. Hardly thrilling, and this time you’ll have to work with a team. Still, there’s something that makes it worth your while: completing this task will earn you a long-awaited rank up. One step closer to the knowledge you seek and to your ultimate goal.
+**Day One**
+
+Gentle hills, scattered groves, and winding streams; birds and small wildlife dart across the road.
+
+Road is moderately maintained, but doesn't seem to show signs of regular use.
+
+Mist spreads as night falls and the party sets up near a small grove of thin trees.
+
+### Korrin vs Malgrum
+
+That night Giri recieves a vision during his meditation
+
+**Day Two**
+
+Mist turns to fog, eventually the village appears in the distance as they crest a particularly large hill, smoke rising from chimneys.
+
+Duskmire looms ahead, quiet streets with no signs of the townspeople.

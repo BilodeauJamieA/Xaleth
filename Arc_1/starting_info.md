@@ -27,7 +27,13 @@ nav_order: 2
 
 </details>
 
-## Character Building
+---
+
+## Starter Info
+
+<details>
+
+<summary>Character Building</summary>
 
 - Level 6
 - Point Buy (27 points / before leveling character)
@@ -60,3 +66,5 @@ This is to be a more lax first campaign, things like true evil characters, or th
 Class / Race outside normal need to be validated first, it is advised to do this with DM before creating backstory and more indepth decisions. 
 
 Sessions will take place Tuesdays 6-9pm.  Session cancellations will be subject to groups discression.
+
+</details>

@@ -2,6 +2,7 @@
 ![https://rollforfantasy.com/tools/language-generator.php](goddess_language.png)
 
 ![Bway Tuggyss](image.png)
+
 "Child of wandering shadow, do not tremble. I am the True Goddess, and I have walked since before the dawn of time."
 
 "Qhomg uv ringywonb shigur, gu nub bwyldmy. O il bhy Bway Tuggyss, ing O hify rimcyg sonqy dyvuwy bhy girn uv boly."

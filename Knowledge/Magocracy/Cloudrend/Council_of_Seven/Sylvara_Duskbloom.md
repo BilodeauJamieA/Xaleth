@@ -16,3 +16,9 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Necromancy Magic
+
+**Artifact**: Nightbloom Phylactery – a black, ever-blooming flower that stores fragments of souls, allowing Sylvara to command spirits, animate the dead, or communicate with the departed.
+ -->

@@ -16,3 +16,9 @@ parent: Council of Seven
 ## Description
 
 ??
+
+<!-- 
+**Specialty**: Fire magic and summoning elemental allies.
+
+**Artifact**: Ashheart Staff – a living ember of hellfire bound into a blackened staff.
+-->
