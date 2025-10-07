@@ -17,6 +17,8 @@ nav_order: 2
 
 ### Tyler - [Giri - Loxodon - Monk/Cleric](https://www.myth-weavers.com/sheets/?id=3033436)
 
+<img src="Giri.png" alt="Giri" width="200"/>
+
 ### Levi - [Grondar - Rhinari - Rider](https://www.myth-weavers.com/sheets/?id=3034187)
 
 <img src="Grondar.png" alt="Grondar" width="200"/>
