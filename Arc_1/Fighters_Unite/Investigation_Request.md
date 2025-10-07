@@ -1,5 +1,7 @@
 # Investigation Request
 
+<img src="Investigation_Request_Official.png" alt="Investigation_Request_Official" width="200"/>
+
 **Requester**: Town of Duskmire
 
 **Assigned Agents**: Xander(Team Lead), Beau, Giri, Grondar
