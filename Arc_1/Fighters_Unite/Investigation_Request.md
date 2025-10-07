@@ -1,3 +1,9 @@
+---
+title: Investigation Request Official
+parent: Fighters Unite
+---
+
+
 # Investigation Request
 
 <img src="Investigation_Request_Official.png" alt="Investigation_Request_Official" width="200"/>
