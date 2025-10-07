@@ -11,3 +11,5 @@ parent: Fighters Unite
 "But then—like moonlight catching a jewel—she appeared! Radiant and clever, with eyes that sparkled like mischief itself. No sword in hand, mind you! Just magical tools, blinking and buzzing, and in moments, those ruffians were tumbling over each other, trapped in their own confusion."
 
 "And me? I was safe, not a hair harmed! I tried to thank her—oh, I did!—but she vanished as quickly as she came, leaving only a shimmer of magic and a smile that promised the city had yet to see the last of her."
+
+*-As told by Lira "Twinklestrings" Valewynn*
