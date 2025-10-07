@@ -1,12 +1,11 @@
 ---
-title: Investigation Request Official
+title: Investigation Request
 parent: Fighters Unite
 ---
 
-
 # Investigation Request
 
-<img src="Investigation_Request_Official.png" alt="Investigation_Request_Official" width="200"/>
+<img src="Investigation_Request.png" alt="Investigation_Request" width="200"/>
 
 **Requester**: Town of Duskmire
 

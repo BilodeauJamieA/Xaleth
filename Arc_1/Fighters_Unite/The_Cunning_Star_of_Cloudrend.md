@@ -1,7 +1,7 @@
 ---
 title: The Cunning Star of Cloudrend
 # parent: Claire Rien
-parent: Fighters 
+parent: Fighters Unite
 ---
 
 # The Cunning Star of Cloudrend

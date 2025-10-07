@@ -1,6 +1,6 @@
 ---
 title: Mira Tallowhand
-parent: Cognito
+parent: Cognito Inn
 ---
 
 # Mira Tallowhand
@@ -16,4 +16,3 @@ parent: Cognito
 ## Description
 
 Slender and energetic, with warm brown eyes and auburn hair often braided back. Small curved horns peek through her hair, and her lower legs are covered in light brown fur with cloven hooves. She wears practical clothing with an apron and carries a notepad tucked at her belt.
-
