@@ -37,6 +37,7 @@ nav_order: 2
 
 <summary>Character Building</summary>
 
+
 - Level 6
 - Point Buy (27 points / before leveling character)
 - 500 gp
