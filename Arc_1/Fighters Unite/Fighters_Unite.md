@@ -1,6 +1,7 @@
 ---
 title: Fighters Unite
 parent: Arc 1
+nav_order: 1
 ---
 
 # Fighters Unite

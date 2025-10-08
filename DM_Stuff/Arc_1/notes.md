@@ -1,14 +1,14 @@
 11k 6 -> 7
 
 Easy: 300 XP / Player
+Medium: 600 XP / Player
+Hard: 900 XP / Player
+Deadly: 1200 XP / Player
 
-Medium: 600 XP
-
-Hard: 900 XP
-
-Deadly: 1200 XP
-
-CRAB
+C - 0
+R - 600xp
+A - 600xp
+B - 0
 
 # A Vision On The First Night
 
