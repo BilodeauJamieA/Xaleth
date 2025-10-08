@@ -1,14 +1,13 @@
+11k 6 -> 7
 
-They forgot the mule and cart
+Easy: 300 XP / Player
 
-They met inn keeper and fucked right off in to the night
+Medium: 600 XP
 
-took cave 4 - mole dug out - leads 
-    - make sure to not that some were sealed off
+Hard: 900 XP
 
-took cave 2 - 
+Deadly: 1200 XP
 
-XXXXXPPPPPP
 CRAB
 
 # A Vision On The First Night

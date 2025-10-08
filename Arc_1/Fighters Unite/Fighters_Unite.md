@@ -13,6 +13,8 @@ Characters recieved Investigation Request
 
 ## Beginning Inn Cognito
 
+[Cognito Inn](../../Knowledge/Magocracy/Cloudrend/Cognito.md)
+
 Giri ordered a Tea
 
 Mira paid generously  for information
