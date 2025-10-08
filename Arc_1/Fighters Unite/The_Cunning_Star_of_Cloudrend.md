@@ -1,7 +1,7 @@
 ---
 title: The Cunning Star of Cloudrend
 # parent: Claire Rien
-parent: Fighters Unite
+parent: Lira "Twinklestrings" Valewynn
 ---
 
 # The Cunning Star of Cloudrend

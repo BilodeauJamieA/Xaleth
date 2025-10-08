@@ -1,6 +1,6 @@
 ---
 title: Mira Tallowhand
-parent: Cognito Inn
+parent: Fighters Unite
 ---
 
 # Mira Tallowhand

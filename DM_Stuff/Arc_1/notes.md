@@ -1,16 +1,15 @@
-Characters meet - Tyler gets a tea.
 
-Paid Mira a ton of gold
-    - Grondar paid most
+They forgot the mule and cart
 
-Gave Lira a gold
+They met inn keeper and fucked right off in to the night
 
-2 mules | 1 wagon - setting up
+took cave 4 - mole dug out - leads 
+    - make sure to not that some were sealed off
 
-start late at night
+took cave 2 - 
 
-made it to town (late 1st day)
-
+XXXXXPPPPPP
+CRAB
 
 # A Vision On The First Night
 
