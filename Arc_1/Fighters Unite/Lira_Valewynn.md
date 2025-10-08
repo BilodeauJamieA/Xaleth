@@ -1,6 +1,6 @@
 ---
 title: Lira "Twinklestrings" Valewynn
-parent: Cognito Inn
+parent: Fighters Unite
 ---
 
 # Lira Valewynn
