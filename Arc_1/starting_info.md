@@ -9,23 +9,23 @@ nav_order: 2
 
 ### Colin - [Xander - Harengon - Eldritch Knight Fighter](https://www.myth-weavers.com/sheets/?id=3033797)
 
-<img src="Xander.png" alt="Xander" width="200"/>
+<img src="./Char Pics/Xander.png" alt="Xander" width="200"/>
 
 ### Logan - [Beau - Raggedy Geppetin - Warmage](https://www.myth-weavers.com/sheets/?id=3033272)
 
-<img src="Beau.png" alt="Beau" width="200"/>
+<img src="./Char Pics/Beau.png" alt="Beau" width="200"/>
 
 ### Tyler - [Giri - Loxodon - Monk/Cleric](https://www.myth-weavers.com/sheets/?id=3033436)
 
-<img src="Giri.png" alt="Giri" width="200"/>
+<img src="./Char Pics/Giri.png" alt="Giri" width="200"/>
 
 ### Levi - [Grondar - Rhinari - Rider](https://www.myth-weavers.com/sheets/?id=3034187)
 
-<img src="Grondar.png" alt="Grondar" width="200"/>
+<img src="./Char Pics/Grondar.png" alt="Grondar" width="200"/>
 <details>
 <summary>Grondar as a Child</summary>
 
-<img src="Grondar_Young.png" alt="Grondar_Young" width="200"/>
+<img src="./Char Pics/Grondar_Young.png" alt="Grondar_Young" width="200"/>
 
 </details>
 

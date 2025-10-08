@@ -2,7 +2,7 @@
 
 ## Quest Giver
 
-Elder Harwen (Town Official ): A weary, pragmatic man tasked with organizing the town’s defense and appeals for aid. He briefs the adventurers on the situation and provides access to local records, villagers, and any resources the town can spare.
+Elder Harwen (Town Official): A weary, pragmatic man tasked with organizing the town’s defense and appeals for aid. He briefs the adventurers on the situation and provides access to local records, villagers, and any resources the town can spare.
 
 Town Official’s Account:
 “At first, it didn’t raise much concern. A few adventurers went missing after poking about in the catacombs. Happens now and again—folk assumed they moved on, or lost their way underground. We only suspected otherwise when some of their packs and supplies turned up abandoned down there. Strange, but not unheard of.

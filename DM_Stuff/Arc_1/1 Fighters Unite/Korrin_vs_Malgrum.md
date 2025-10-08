@@ -4,13 +4,13 @@ They fight—each strike echoing like thunder in water—until the Rhinari falls
 
 ## Insight or Perception
 
-**DC 10**
+**DC 15**
 
 “Eua’fy imries losangywstuug stwyntbh. Ob osn’b stwyntbh uv iwl uw hyiwb bhib twinbs bway puryw.”
 
 “You’ve always misunderstood strength. It isn’t strength of arm or heart that grants true power.”
 
-**DC 15**
+**DC 25**
 
 “ob’s yssynqy robhon unys suam. bhy sily rie euaw spowobs tovb eua bhyows, eua qin myiwn bu bicy ob vwul ubhyws.”
 

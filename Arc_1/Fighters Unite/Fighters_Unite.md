@@ -9,4 +9,12 @@ parent: Arc 1
 
 ## Beginning Inn Cognito
 
+<!-- 
+
+Lira
+
+Mira
+
+-->
+
 ## Road To Duskmire
