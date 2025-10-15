@@ -34,7 +34,7 @@ A pile of broken glass near a splintered crate, not much dust (looks recent)
 **DC 10**
 A boot track, partially swept away near the crate
 
-## Track the Bandits’ Trail
+## Track the Bandits
 
 The catacombs stretch ahead like a twisting, stone labyrinth, the air cool and damp, carrying the faint scent of mildew and earth. The tunnels themselves are uneven—walls slick with moisture, floors littered with broken stones, and sections collapsed long ago, forcing careful climbing or narrow squeezes.
 

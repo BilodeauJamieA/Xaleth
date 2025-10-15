@@ -1,25 +1,16 @@
 # Arc 1 Story
 
-**TODO** https://candyai.gg/home2?via=doujin_land
+**TODO**
+
+Burnt Page - When Logan checks it out
+
+Mules & Wagon - Maybe Marrek snags em?
 
 Outline Verdant Veil | Thalerian info
 
 What is Malgrum up to
 
 How does the Beast Lord plan to interact with Grondar
-
-What is the Burnt Page????
-
-11k 6 -> 7
-
-Night 1 - 1200 | Night 2 - 2800 = 4k
-
-Easy: 300 XP / Player
-Medium: 600 XP / Player
-Hard: 900 XP / Player
-Deadly: 1200 XP / Player
-
-C - 1000xp | R - 1200xp | A - 600xp | B - 0 
 
 ## Fighters Unite
 
@@ -31,17 +22,25 @@ Travel to Duskmire takes a little less than 2 days travel on foot with minimal i
 
 ## The Vanishings of Duskwood
 
-<!-- SKIPPED Meeting with Elder Harwen begins the 'quest' -->
+Meeting with Elder Harwen and Serelis Varn - *SKIPPED*
 
-Optionally investigate Catacombs, Homes, or even Inn
-    - Investigate catacombs chosen and no others
+Investigate Homes, Inn, or Catacombs
+- Homes - *SKIPPED*
+- Cognito Inn - *SKIPPED*
+- Catacombs
+
+Underground Connector Fight
+
+Track the Bandits
 
 <!-- CURRENTLY HERE -->
 
-Connector Fight
+Underground Bandit Camp Fight - *must find letter*
 
-Find clues of Bandits in Catacombs
+Caged Couple
 
-Bandit Camp Fight - must find letter
+Investigation Letter
+
+Finishing Up
 
 ## Ravens Hollow

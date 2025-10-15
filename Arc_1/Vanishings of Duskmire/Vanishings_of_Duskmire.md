@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Investigating the Catacombs
 
-Met Marrek (didn't get a room)
+Met [Marrek](Marrek_Drosven.md) (didn't get a room)
 
 <!-- Mules and Wagon forgotten -->
 

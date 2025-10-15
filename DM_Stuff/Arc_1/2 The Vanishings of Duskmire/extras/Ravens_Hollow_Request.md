@@ -2,7 +2,7 @@
 
 **Requester**: Eternal Accord
 
-**Assigned Agents**: Xander(Team Lead), Beau, Giri, Grondar
+**Assigned Agents**: Xander, Beau, Giri, Grondar
 
 **Objective**
 
