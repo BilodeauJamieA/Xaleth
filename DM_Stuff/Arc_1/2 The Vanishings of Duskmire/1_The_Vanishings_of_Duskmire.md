@@ -22,24 +22,29 @@ Clues: faint footprints, discarded personal items, or crude barricades showing r
 
 Clues: Some of the homes were locked when they were investigated. All effected homes are connected to catacombs. Barely tracable changes to 'sealed' parts of catacombs in homes.
 
+## Underground Connector
+
+**scattered around** - 40 sp, 12 ep, 4 gp, flask of water, singed page from a spellbook, an empty vial with cork (1 gp)
+
+### Investigation Check
+
+**DC 5**
+A pile of broken glass near a splintered crate, not much dust (looks recent)
+
+**DC 10**
+A boot track, partially swept away near the crate
+
 ## Track the Bandits’ Trail
 
 The catacombs stretch ahead like a twisting, stone labyrinth, the air cool and damp, carrying the faint scent of mildew and earth. The tunnels themselves are uneven—walls slick with moisture, floors littered with broken stones, and sections collapsed long ago, forcing careful climbing or narrow squeezes.
 
-**Footprints** dusted with fine ash or mud lead into bricked-off passages, then vanish at dead ends or reappear further along.
+### Perception Check
 
-**Discarded items**—rusted tools, scraps of cloth, or overturned crates—hint that small groups have been moving supplies through these hidden corridors.
+**DC 10**
+A mark on the wall on one of the sides of a fork in the path (left)
 
-**Scuff marks and scratches** line the walls, some deep enough to suggest hurried passage, others almost deliberate, like markers to guide those who know the way.
-
-**Faint odors** of cooking fires, smoke, or even livestock linger in some alcoves, revealing the tunnels aren’t entirely abandoned.
-
-Every turn seems to echo with the faint shuffle of movement, and shadows twist unnaturally in the corners. Even as the deeper chambers grow quieter and colder, the signs are unmistakable: someone—or something—has been using these blocked-off passages, and the labyrinth is far from empty.
-
-
-## Underground Connector
-
-**scattered around** - 40 sp, 12 ep, 4 gp, flask of water, singed page from a spellbook, an empty vial with cork (1 gp)
+**DC 20**
+The faintest trace of what smells like a cooking fire briefly wafts through the air
 
 ## Underground Bandit Camp
 

@@ -6,19 +6,23 @@ After navigating winding tunnels and bricked-off passages, the adventurers enter
 
 ## Perception
 
-**Caged captives**: A couple is tied up inside a reinforced cage against the far wall, their faces pale but alert, whispering reassurances to each other.
-
-**Supplies**: Stacks of stolen goods—barrels, crates, and bags—line the walls. Evidence suggests these captives aren’t the only ones who have passed through.
+<!-- smelled pungent odor, heard voices and clatter -->
 
 **Bandits**: Shadows flicker along the side of the tunnels; you hear hushed voices and the occasional clatter of metal.
 
 **Tripwires or makeshift alarms**: String and bells have been set to alert the bandits if intruders enter.
 
+<!-- THINGS TO SEE -->
+
+**Caged captives**: A couple is tied up inside a reinforced cage against the far wall, their faces pale but alert, whispering reassurances to each other.
+
+**Supplies**: Stacks of stolen goods—barrels, crates, and bags—line the walls. Evidence suggests these captives aren’t the only ones who have passed through.
+
 ## Combat
 
 **The Bandits**:
 
-4 figures are present in the chamber, busy checking supplies, eating, or practicing. Their weapons are crude but functional—short swords, daggers, and crossbows.
+4 figures are present in the chamber, busy checking supplies, eating, or practicing. Their weapons are crude but functional—short swords, da        ggers, and crossbows.
 
 **Leader**: A slightly tougher bandit or veteran who coordinates the group and may negotiate or fight if surprised.
 

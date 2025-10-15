@@ -3,15 +3,28 @@
 ## Setup
 The party rounds a bend in a narrow, damp tunnel. The floor is slick with moisture, and the faint drip of water echoes from somewhere deeper. Ahead, the tunnel splits around a low, jagged pile of rocks, forming a natural bottleneck.
 
-## Perception
+## Perception Check
 
-**Unusual sheen**: The stone floor glistens oddly in the torchlight, almost like oil, but with a faintly greenish tint.
+**DC 5**
+Smell a tangy, acidic odor invades your senses
 
-**Soft squelches**: Every few steps, the adventurers hear faint, wet squishing sounds underfoot—not consistent with their own movement.
+**DC 10**
+The stone floor glistens oddly in the light, almost like oil with the rainbow of colors, but with a strong greenish tint.
 
-**Sticky residue**: On closer inspection, small patches of gelatinous residue cling to the walls and rocks, leaving behind irregular streaks.
+**DC 15**
+On closer inspection, small patches of what looked like oil residue clings to the walls and rocks, leaving behind irregular globs and streaks.
 
-**Faint smell**: A tangy, acidic odor hints at something living nearby.
+### Nature Check
+
+Anyone above 15 for previous check makes a Nature Check:
+
+**DC 15**
+
+Your instincts allow you to recall monsters known as ooze that live in places that fit this description.  You know they can range from slight nusances to outright menaces.
+
+**DC 20**
+
+This appears to be a Gray Ooze den.  They blend in with natural bodies of water until prey approuches, and they rarely hunt solitary.  Player is allowed to see ![Gray Ooze](./Gray_Ooze.png)
 
 ## Combat
 
