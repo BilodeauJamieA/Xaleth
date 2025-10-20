@@ -30,8 +30,6 @@ parent: Creatures
 
 **Passive Perception**: 9
 
-**Challenge Rating** 1/2
-
 **Proficiency Bonus** +2
 
 ---

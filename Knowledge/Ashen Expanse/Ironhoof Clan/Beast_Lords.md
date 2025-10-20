@@ -7,6 +7,10 @@ parent: Ashen Expanse
 
 A collection of primal, animal-based spirits revered by many tribes in the Ashen Expanse. They are not distant gods but living embodiments of the qualities the various clans value in the harsh living conditions of the Ashen Expanse. Two particular Beast Lords stand above the rest but their are many beyond that that represent different aspects of the natural and spiritual world.
 
+**Secondary Beast Lords**
+
+Spirits recognized within individual houses for their specialized domains. Some referencing craft, war, or hunt as examples. While they may not be worshiped by the entire clan, their favor is crucial for the prosperity and renown of their house. Some Ironhoof may even carry personal talismans or marks to honor their house’s spirit, reinforcing their dedication to both the family and the clan.
+
 ## Tharkun
 
 **Title**: Supreme Beast Lord
@@ -29,6 +33,12 @@ The colossal rhinoceros spirit embodies the ideals of the clan: raw strength, un
 
 A mighty boar spirit, Korash is always at Tharkun’s side, representing loyalty, endurance, and the sacred bond between Rider and war boar. His presence explains why the Riders’ connection with their mounts is so intimate and revered—the strength of the Rider and boar together is a reflection of Korash’s spirit.
 
-## Secondary Beast Lords
+## Braknar the Stoneback
 
-Spirits recognized within individual houses for their specialized domains. Some referencing craft, war, or hunt as examples. While they may not be worshiped by the entire clan, their favor is crucial for the prosperity and renown of their house. Some Ironhoof may even carry personal talismans or marks to honor their house’s spirit, reinforcing their dedication to both the family and the clan.
+**Secondary Beast Lord**
+
+*“Nurture the beast, and it will carry you to glory.”*
+
+**Symbol**: A jagged turtle shell etched with various marks
+
+An ancient tortoise spirit who watches over boarwardens, guiding the care, raising, and perfection of each generation of mounts. He embodies patience, endurance, and the slow, steady cultivation of strength, ensuring that every boar grows powerful, loyal, and battle-ready. His presence cements the sacred bond between Rider and mount, reminding the breeders that the might of the clan flows through the beasts they nurture.

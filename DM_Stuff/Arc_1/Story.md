@@ -2,15 +2,9 @@
 
 **TODO**
 
-Burnt Page - When Logan checks it out
-
-Mules & Wagon - Maybe Marrek snags em?
-
 Outline Verdant Veil | Thalerian info
 
-What is Malgrum up to
-
-How does the Beast Lord plan to interact with Grondar
+Battlemap - Rhinari
 
 ## Fighters Unite
 
@@ -37,10 +31,14 @@ Track the Bandits
 
 Underground Bandit Camp Fight - *must find letter*
 
+Burnt Scroll
+
 Caged Couple
 
 Investigation Letter
 
+Marrek took mules and wagon in after hearing them making a ruckes after party left
+
 Finishing Up
 
-## Ravens Hollow
+## Into The Woods

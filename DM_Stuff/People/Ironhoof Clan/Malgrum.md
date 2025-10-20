@@ -11,7 +11,7 @@ parent: Ironhoof Clan
 
 **Age**: 42
 
-**Class**: Rider ()
+**Class**: Rider
 
 ## Description
 

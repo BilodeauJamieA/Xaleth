@@ -13,21 +13,23 @@
 - Claire 
     - Missing People
     - The Cunning Star of Cloudrend
-        - Saved Bard in Cloudrend slums
-            - TODO - Bard Profile
+        - Saved Lira in Cloudrend slums
+
 - Tyezin 
     - Rien (Re-In) formerly Thalirien (Thal-Ah-Rain)
-    - Knows Elenya soul powers Beau
+    - Knows Elenya soul powers Beau (She was dying and did it willingly)
 
 ## Tyler - Giri
 
 - Bway Tuggyss - True Goddess 
     - Has dream about Korrin meeting Malgrum
-    - TODO - Tie in Beast Lord
+    - Another dream Bway Tuggyss speaks directly to Giri?
+        - Forboding warning about trapped souls
+
 
 ## Levi - Grondar
 
 - Malgrum 
     - Meets with Korrin Veilstrider
-    - TODO - Seeking out Grondar personally
-    - TODO - Beast Lord tasks Grondar with stopping Malgrum
+    - Sends Lirael / Rokhan
+    - Braknar tasks Grondar with stopping Malgrum
