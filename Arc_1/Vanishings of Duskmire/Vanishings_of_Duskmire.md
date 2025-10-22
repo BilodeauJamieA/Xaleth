@@ -48,4 +48,4 @@ Grondar tests his interigation skills and finds out about the bandits working fo
 
 Party finally gets a room at the inn ([The Ground](../../Knowledge/Magocracy/Duskmire/The_Ground.md)) and Giri puts a hole in the wall
 
-Giri makes a revelation of a [dream](<https://bilodeaujamiea.github.io/Xaleth/Arc_1/Fighters%20Unite/Giri_Dream.md>) he had on the way to Duskmire
+Giri makes a revelation of a [dream](<https://bilodeaujamiea.github.io/Xaleth/Arc_1/Fighters%20Unite/Giri_Dream.html>) he had on the way to Duskmire
