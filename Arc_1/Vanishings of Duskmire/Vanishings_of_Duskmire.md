@@ -36,6 +36,8 @@ Party dispatched the bandits.  Xander claims a head, while Grondar requires answ
 
 Beau digs deep and recognizes the Verdant Veil symbol on a [handwritten letter](Handwritten_Letter.md) that Grondar found and Xander says he knows something...
 
+## Reunited Elves
+
 Lyria and Tibbin Bramblefoot rescued and brought back to their son
 
 [Elder Harwen](Elder_Harwen.md) assists locking up Bandit Leader and introduces Serelis
