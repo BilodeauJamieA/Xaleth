@@ -1,6 +1,6 @@
 ---
 title: Marrek Drosven
-parent: The Ground
+parent: Vanishings of Duskmire
 ---
 
 # Marrek Drosven

@@ -1,5 +1,7 @@
 # Into The Woods
 
+As the party travels Giri recieves a second dream, this time it warns of the soul manipulation in use.
+
 ## Turtle Dove 
 
 A turtle-dove appears.  It is an emmisary of Braknar seeking the aid of Grondar to put a stop to Malgrum.

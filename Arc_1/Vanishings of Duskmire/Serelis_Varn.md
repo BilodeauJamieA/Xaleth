@@ -1,6 +1,6 @@
 ---
 title: Serelis Varn
-parent: Duskmire
+parent: Vanishings of Duskmire
 ---
 
 # Serelis Varn

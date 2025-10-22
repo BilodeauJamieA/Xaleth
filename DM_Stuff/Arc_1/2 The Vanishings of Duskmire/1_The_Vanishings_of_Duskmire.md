@@ -50,8 +50,8 @@ The faintest trace of what smells like a cooking fire briefly wafts through the 
 
 **Bandit 1** - small pouch (400 cp)
 **Bandit 2** - small pouch (350 cp), a signal whistle (5 cp)
-**Bandit 3** - small pouch (300 cp)
-**Leader** - small pouch (150 cp, 60 sp, 7gp), a letter (handwritten_letter), key to cage
+- **Bandit 3** - small pouch (300 cp)
+- **Leader** - small pouch (150 cp, 60 sp, 7gp), a letter (handwritten_letter), key to cage
 Lock (10 gp, if taken properly from cage)
 
 ## Caged Couple
@@ -60,11 +60,13 @@ Tibbin Bramblefoot (M): Slight and wiry, with sandy hair that curls at the ends,
 
 Lyria Bramblefoot (F): Petite and delicate, with chestnut hair tied loosely behind her head, wide green eyes that dart constantly, and a faint build reflecting her young age.
 
+<!-- Child Rowan was hidden in a cupboard -->
+
 **Captivity**:
 The couple had been caged for roughly two weeks within the bandit camp. Though not long enough to cause severe physical deterioration, the confinement left them pale, exhausted, and tense, their spirits clearly shaken.
 
 **Behavior After Rescue**:
-Even once freed, both appear almost dazed and disengaged from their surroundings. Their only focus is their child, repeatedly asking after the baby’s safety. They barely respond to questions, and little else seems to matter to them, their worry and exhaustion entirely consuming their attention.
+Even once freed, both appear almost dazed and disengaged from their surroundings. Their only focus is their child (Rowan), repeatedly asking after the baby’s safety. They barely respond to questions, and little else seems to matter to them, their worry and exhaustion entirely consuming their attention.
 
 ## Investigating Letter
 

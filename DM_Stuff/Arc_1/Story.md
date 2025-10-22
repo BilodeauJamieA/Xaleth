@@ -27,8 +27,6 @@ Underground Connector Fight
 
 Track the Bandits
 
-<!-- CURRENTLY HERE -->
-
 Underground Bandit Camp Fight - *must find letter*
 
 Burnt Scroll
@@ -38,6 +36,8 @@ Caged Couple
 Investigation Letter
 
 Marrek took mules and wagon in after hearing them making a ruckes after party left
+
+<!-- CURRENTLY HERE -->
 
 Finishing Up
 

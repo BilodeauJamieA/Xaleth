@@ -1,6 +1,6 @@
 ---
 title: Elder Harwen
-parent: Duskmire
+parent: Vanishings of Duskmire
 ---
 
 # Elder Harwen

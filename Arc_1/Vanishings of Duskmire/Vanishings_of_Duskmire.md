@@ -32,4 +32,18 @@ Beau and Giri go right to find a pair of elves huddled, sobbing in a cage
 
 Grondar rang the bell to begin the match
 
-Combat has begun as bandits begin to appear, how will it unfold...
+Party dispatched the bandits.  Xander claims a head, while Grondar requires answers
+
+Beau digs deep and recognizes the Verdant Veil symbol on a [handwritten letter](Handwritten_Letter.md) that Grondar found and Xander says he knows something...
+
+Lyria and Tibbin Bramblefoot rescued and brought back to their son
+
+[Elder Harwen](Elder_Harwen.md) assists locking up Bandit Leader and introduces Serelis
+
+[Serelis](Serelis_Varn.md) fanboy's the party while assisting with accomadations and promise of rewards
+
+Grondar tests his interigation skills and finds out about the bandits working for Malgrum
+
+Party finally gets a room at the inn ([The Ground](../../Knowledge/Magocracy/Duskmire/The_Ground.md)) and Giri puts a hole in the wall
+
+Giri makes a revelation of a [dream](../Fighters%20Unite/Giri_Dream.md) he had on the way to Duskmire
