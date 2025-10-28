@@ -5,6 +5,10 @@ title: Claire Rien
 
 # Claire
 
+<img src="Claire_Rien.jpg" alt="Xander" width="200"/>
+
+---
+
 **Title**: Artificer
 
 **Race**: High Elf

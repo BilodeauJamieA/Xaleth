@@ -5,6 +5,10 @@ parent: Fighters Unite
 
 # Mira Tallowhand
 
+<img src="Mira_Tallowhand.jpg" alt="Mira Tallowhand" height="200"/>
+
+---
+
 **Title**: Barmaid at Cognito
 
 **Race**: Satyr

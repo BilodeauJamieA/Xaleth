@@ -5,6 +5,11 @@ parent: Fighters Unite
 
 # Lira Valewynn
 
+<img src="Lira.png" alt="Lira" width="200"/>
+<img src="Lira_Performing.png" alt="Lira Performing" height="200"/>
+
+---
+
 **Title**: Bard
 
 **Race**: Lightfoot Halfling
