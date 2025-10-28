@@ -5,4 +5,4 @@ nav_order: 3
 
 # Xaleth
 
-![Xaleth](World_Map.png)
+<img src="./World_Map.png" alt="Xaleth" width="800"/>
