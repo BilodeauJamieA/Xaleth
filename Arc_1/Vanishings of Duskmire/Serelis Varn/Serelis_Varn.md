@@ -5,6 +5,10 @@ parent: Vanishings of Duskmire
 
 # Serelis Varn
 
+<img src="Serelis_Varn.jpg" alt="Serelis Varn" height="300"/>
+
+---
+
 **Title**: Operator of the Duskmire division of the Eternal Accord
 
 **Race**: Human

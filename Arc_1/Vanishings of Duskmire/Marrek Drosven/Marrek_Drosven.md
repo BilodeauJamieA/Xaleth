@@ -5,6 +5,10 @@ parent: Vanishings of Duskmire
 
 # Marrek Drosven
 
+<img src="Marrek_Drosven.jpg" alt="Marrek Drosven" height="300"/>
+
+---
+
 **Title**: Innkeeper of 'The Ground' (ex-Stonemason)
 
 **Race**: Dwarf
