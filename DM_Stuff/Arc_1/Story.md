@@ -4,7 +4,9 @@
 
 Outline Verdant Veil | Thalerian info
 
-Raven's Hollow map
+Create hook to get party from town in to the woods
+
+what waits for them in the woods?
 
 ## Fighters Unite
 

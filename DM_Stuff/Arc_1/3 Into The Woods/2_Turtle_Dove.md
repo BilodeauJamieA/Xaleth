@@ -1,6 +1,6 @@
 # Turtle Dove
 
-<img src="./Turtle_Dove.png" alt="Turtle Dove" width="200"/>
+<img src="./extras/Turtle_Dove.png" alt="Turtle Dove" width="200"/>
 
 ## Setup
 
@@ -28,6 +28,6 @@ The turtle dove is a rare animal not native to these parts, and its calm, watchf
 
 ### Lesser Mark of Braknar
 
-<img src="./Braknar_Lesser_Mark.jpg" alt="Lesser Mark of Braknar" width="200"/>
+<img src="./extras/Braknar_Lesser_Mark.jpg" alt="Lesser Mark of Braknar" width="200"/>
 
 Upon accepting the task, Grondar will recieve a lesser mark of Braknar.  It will appear in a place of his choosing and feel like his body warms, centering on the location before abruptly ending as mark appears.
