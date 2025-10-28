@@ -80,7 +80,7 @@ Who find's it, do they show others?
 
 **Nature, Arcana, or History Check** - *Xander gets advantage*: It is recognized to be the mark of a group called the Verdant Veil.  Higher rolls understand it's authenticity.
 
-## Finishing Up
+## Reunited Elves
 
 **Elder Harwin**
 

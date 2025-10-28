@@ -18,10 +18,10 @@ Characters recieved Investigation Request
 
 Giri ordered a Tea
 
-Mira paid generously  for information
+[Mira](./Mira_Tallowhand/Mira_Tallowhand.md) paid generously  for information
 <!-- Will remember Grondar -->
 
-Lira told a tale, twice
+[Lira](./Lira_Valewynn/Lira_Valewynn.md) told a tale, twice
 <!-- Will remember Xander -->
 
 ## Road To Duskmire
@@ -34,4 +34,4 @@ Giri rented mules and bought a wagon *10 days*
 
 <!-- Giri has a vision -->
 
-Party makes arrives at Duskmire
+Party arrives at Duskmire late in the evening

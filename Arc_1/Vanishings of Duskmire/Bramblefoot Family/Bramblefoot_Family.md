@@ -5,7 +5,7 @@ parent: Vanishings of Duskmire
 
 # Bramblefoot Family
 
-<img src="Bramblefoot_Family.jpg" alt="Bramblefoot Family" height="300"/>
+<img src="Bramblefoot_Family.jpg" alt="Bramblefoot Family" width="300"/>
 
 ---
 

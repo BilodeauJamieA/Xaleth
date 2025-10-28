@@ -1,6 +1,6 @@
 # Into The Woods
 
-As the party travels Giri recieves a second dream, this time it warns of the soul manipulation in use.
+(A week after first dream) As the party travels Giri recieves a second dream, this time it warns of the soul manipulation in use.
 
 ## Turtle Dove 
 
@@ -18,6 +18,6 @@ Lirael will mention Korrin's name as she flees
 
 ## Unwelcome
 
-Townsfolk eyeball Grondar.  Some weary, some tense, some run
+Townsfolk eyeball Grondar.  Some weary, some tense, some run.
 
-Tavern Keeper tells him to go away
+Guards speak of not wanting any trouble.

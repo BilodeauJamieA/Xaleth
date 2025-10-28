@@ -8,9 +8,7 @@ nav_order: 2
 
 ## Investigating the Catacombs
 
-Met [Marrek](Marrek_Drosven.md) (didn't get a room)
-
-<!-- Mules and Wagon forgotten -->
+Met [Marrek](./Marrek%20Drosven/Marrek_Drosven.md) (didn't get a room)
 
 First cave investigated ended in a pile of impassable rubble
 
@@ -38,11 +36,13 @@ Beau digs deep and recognizes the Verdant Veil symbol on a [handwritten letter](
 
 ## Reunited Elves
 
-Lyria and Tibbin Bramblefoot rescued and brought back to their son
+[Lyria and Tibbin Bramblefoot](./Bramblefoot%20Family/Bramblefoot_Family.md) rescued and brought back to their son
 
-[Elder Harwen](Elder_Harwen.md) assists locking up Bandit Leader and introduces Serelis
+Mules and Carriage found to be boarded by the innkeeper
 
-[Serelis](Serelis_Varn.md) fanboy's the party while assisting with accomadations and promise of rewards
+[Elder Harwen](./Elder%20Harwen/Elder_Harwen.md) assists locking up Bandit Leader and introduces Serelis
+
+[Serelis](./Serelis%20Varn/Serelis_Varn.md) fanboy's the party while assisting with accomadations and promise of rewards
 
 Grondar tests his interigation skills and finds out about the bandits working for Malgrum
 

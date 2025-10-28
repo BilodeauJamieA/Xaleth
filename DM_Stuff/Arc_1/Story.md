@@ -4,41 +4,20 @@
 
 Outline Verdant Veil | Thalerian info
 
-Battlemap - Rhinari
+Raven's Hollow map
 
 ## Fighters Unite
 
-Players are given leadup summaries and investigation request explained
-
-Characters meet at Cognito, do introductions, and plan next steps based on request
-
-Travel to Duskmire takes a little less than 2 days travel on foot with minimal interactions
+Mule & Carriage for 10 days
 
 ## The Vanishings of Duskwood
 
-Meeting with Elder Harwen and Serelis Varn - *SKIPPED*
-
-Investigate Homes, Inn, or Catacombs
-- Homes - *SKIPPED*
-- Cognito Inn - *SKIPPED*
-- Catacombs
-
-Underground Connector Fight
-
-Track the Bandits
-
-Underground Bandit Camp Fight - *must find letter*
-
 Burnt Scroll
 
-Caged Couple
+Investigation Letter - Verdant Veil
 
-Investigation Letter
+<!-- START HERE (After they discuss Dream / Verdant Veil) -->
 
-Marrek took mules and wagon in after hearing them making a ruckes after party left
-
-<!-- CURRENTLY HERE -->
-
-Finishing Up
+Serelis wants to reward users
 
 ## Into The Woods
