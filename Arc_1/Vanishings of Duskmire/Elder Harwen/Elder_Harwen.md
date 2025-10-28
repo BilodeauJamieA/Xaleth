@@ -5,7 +5,7 @@ parent: Vanishings of Duskmire
 
 # Elder Harwen
 
-<img src="Elder_Harwen.jpg" alt="Elder Harwen" height="300"/>
+<img src="Elder_Harwen.jpg" alt="Elder Harwen" width="300"/>
 
 ---
 

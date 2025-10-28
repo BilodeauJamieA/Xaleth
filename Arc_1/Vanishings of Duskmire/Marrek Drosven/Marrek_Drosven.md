@@ -5,7 +5,7 @@ parent: Vanishings of Duskmire
 
 # Marrek Drosven
 
-<img src="Marrek_Drosven.jpg" alt="Marrek Drosven" height="300"/>
+<img src="Marrek_Drosven.jpg" alt="Marrek Drosven" width="300"/>
 
 ---
 

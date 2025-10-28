@@ -5,7 +5,7 @@ parent: Vanishings of Duskmire
 
 # Serelis Varn
 
-<img src="Serelis_Varn.jpg" alt="Serelis Varn" height="300"/>
+<img src="Serelis_Varn.jpg" alt="Serelis Varn" width="300"/>
 
 ---
 
