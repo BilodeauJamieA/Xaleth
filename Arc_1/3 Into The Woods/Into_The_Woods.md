@@ -6,7 +6,9 @@ nav_order: 3
 
 # Into The Woods
 
-Xander reveals the curse on his Glaive and gives backstory of his family and their involvement with the [Verdant Veil](../../Knowledge/Verdant%20Veil/Verdant_Veil.md)
+Xander reveals the curse on his Glaive and gives backstory of his family and their involvement with the [Verdant Veil](https://bilodeaujamiea.github.io/Xaleth/Knowledge/Verdant%20Veil/Verdant_Veil.html)
+
+Party accepts follow up to check out [Ravens Hollow](./Ravens%20Hollow%20Request/Ravens_Hollow_Request.md)
 
 ## Turtle Dove
 
