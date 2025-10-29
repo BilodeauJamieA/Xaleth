@@ -21,7 +21,7 @@ A large Rhinari appears, runes etched across its arms and chest with blank dull 
 
 ## Perception Check
 
-**DC 15**
+**DC 10**
 A flicker of iridescent light flits at the treeline. Something hovers, wings beating, soot-streaked and grinning. Her gauntlet glows as she guides the Rhinari from a safe distance, eyes gleaming with dark delight as she watches the chaos unfold.
 
 ## Post Combat

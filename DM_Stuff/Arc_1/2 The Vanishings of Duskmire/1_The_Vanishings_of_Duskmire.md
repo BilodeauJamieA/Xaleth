@@ -98,13 +98,13 @@ Who find's it, do they show others?
     **Salvage**	
 
     - Chain Shirt - Medium
-    - Spiked Armor - Medium 
     - Artisan's Tools
     - Bag of Dried Mushrooms
-    - Bag of Salt
     - Common Wig (Black)
-    - Pair of Dice
-    - Potion of Healing x 2
-    - Sewing Needle
     - Small Cask of Oil
-    - Wool Cloak (Brown)
+- Potion of Healing x 2 - Giri
+- Spiked Armor - Medium - Giri
+- Bag of Salt - Grondar
+- Pair of Dice - Giri
+- Sewing Needle - Beau
+- Wool Cloak (Brown) - Xander

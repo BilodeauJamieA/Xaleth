@@ -12,7 +12,7 @@ parent: Creatures
 
 **Hit Points** 93 (11d8 + 44)
 
-**Speed** 00 ft.
+**Speed** 30 ft.
 
 **Initiative** -1 (10)
 

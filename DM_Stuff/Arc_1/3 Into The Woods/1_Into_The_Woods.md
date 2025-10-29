@@ -1,6 +1,6 @@
 # Into The Woods
 
-**Ciphered Dream** (A week after first dream) As the party travels Giri recieves a second dream, this time it warns of the soul manipulation in use.
+**Ciphered Dream** (night after asking for guidance) As the party travels Giri recieves a second dream, this time it warns of the soul manipulation in use.
 
 **Sigil Remembrance** - Beau, after sleeping has a deeper understanding of the Verdant Veil symbol
 

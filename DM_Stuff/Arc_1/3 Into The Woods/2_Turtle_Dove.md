@@ -20,11 +20,12 @@ The turtle dove is a rare animal not native to these parts, and its calm, watchf
 
 "Malgrum has strayed from the path of honor, and it falls to you to set matters right."
 
-"This is no task for the faint of heart; tread carefully and let wisdom guide your hand."
 
 "Complete this charge, and Braknar will grant you his mark—a token of power, favor, and the weight of his trust."
 
 "Know that destiny watches closely, and every choice you make echoes far beyond the path before you."
+
+"This is no task for the faint of heart; tread carefully and let wisdom guide your hand."
 
 ### Lesser Mark of Braknar
 

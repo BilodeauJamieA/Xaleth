@@ -14,7 +14,9 @@ Deadly: 1200 XP / Player
 
 **Night 3** - 5000
 
-**Total** - 9000
+**Night 4** - 6300
+
+**Total** - 15300
 
 ## Session 1
 C - 0 | R - 600xp | A - 600xp | B - 0
@@ -24,3 +26,6 @@ C - 1000xp | R - 1200xp | A - 600xp | B - 0
 
 ## Session 3
 C - 2600xp | R - 1200xp | A - 1200xp | B - 0 
+
+## Session 4
+C - 2,700 | R - 1200xp | A - 1200xp | B - 1200xp 

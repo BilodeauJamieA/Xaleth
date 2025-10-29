@@ -2,6 +2,14 @@
 
 Evocation - Redish Orange (burnt)
 
-<!-- BANDIT FIGHT -->
+Tyler reached out to Goddess
 
-BL - 19ac - 39 (25)
+Tyler received vision
+
+Malgurm info
+
+Beast Lord Mark
+
+Grondar recognized Rokhan
+
+Pixie revealed Korrin

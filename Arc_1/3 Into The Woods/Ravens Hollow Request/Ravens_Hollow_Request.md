@@ -1,5 +1,9 @@
 # Continued Investigation
 
+<img src="Ravens_Hollow_Request.png" alt="Ravens Hollow Request" width="300"/>
+
+---
+
 **Requester**: Eternal Accord
 
 **Assigned Agents**: Xander, Beau, Giri, Grondar

@@ -8,6 +8,8 @@ Create hook to get party from town in to the woods
 
 what waits for them in the woods?
 
+Who and why is someone looking for Cunning Star
+
 ## Fighters Unite
 
 Mule & Carriage for 10 days
