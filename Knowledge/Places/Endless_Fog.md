@@ -1,6 +1,6 @@
 ---
 title: Endless Fog
-parent: World Map
+parent: Xaleth
 ---
 
 # Endless Fog

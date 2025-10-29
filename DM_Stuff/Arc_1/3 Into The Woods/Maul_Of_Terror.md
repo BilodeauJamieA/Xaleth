@@ -1,3 +1,8 @@
+---
+title: Maul Of Terror
+parent: Into The Woods
+---
+
 # Maul of Terror
 <!-- 12,000 gp -->
 Heavy - Two-Handed - 2d6 Bludgeoning

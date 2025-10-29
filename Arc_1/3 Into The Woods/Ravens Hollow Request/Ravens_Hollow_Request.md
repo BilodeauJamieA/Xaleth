@@ -1,3 +1,8 @@
+---
+title: Continued Investigation
+parent: Into The Woods
+---
+
 # Continued Investigation
 
 <img src="Ravens_Hollow_Request.png" alt="Ravens Hollow Request" width="300"/>

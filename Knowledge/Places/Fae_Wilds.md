@@ -1,6 +1,6 @@
 ---
 title: Fae Wilds
-parent: World Map
+parent: Xaleth
 ---
 
 # Fae Wilds

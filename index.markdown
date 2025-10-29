@@ -8,6 +8,10 @@ permalink: /
 
 # The World of Xaleth
 
+<img src="./World_Map.png" alt="Xaleth" width="800"/>
+
+---
+
 Xaleth is a realm where ancient powers and fragile civilizations weave a delicate balance. Two great continents dominate its surface—each shaped by cataclysm, myth, and ambition.
 
 At its heart, Xaleth pulses with ley-lines—rivers of raw arcane energy that twist across land and sea, fueling wonders and horrors alike. Entire cities rise where these lines converge, while wild frontiers remain scarred and unstable, haunted by creatures twisted by unchecked magic.
